@@ -238,12 +238,12 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{riscv-ai-core-2025,
+@misc{dutta2025riscv,
   title={AI-Accelerated RISC-V Soft-Core: Simulation-First Design and Verification},
-  author={Research Team},
+  author={Arijit Dutta},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/your-org/riscv-ai-core}}
+  howpublished={\url{https://github.com/ArijitDutta96395/DESIGN-VERIFICATION-OF-AI-ENHANCED-RISC-V-SOFT-CORE-PROCESSOR}}
 }
 ```
 
