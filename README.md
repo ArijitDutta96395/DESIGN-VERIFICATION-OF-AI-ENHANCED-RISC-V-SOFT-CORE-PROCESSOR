@@ -8,7 +8,8 @@ This project integrates domain-specific AI acceleration units into a minimal RIS
 
 Our simulation-first methodology enables rapid prototyping and verification of hardware accelerators before physical implementation, significantly reducing development cycles and costs while ensuring correctness and performance guarantees.
 
-![Project Overview](docs/images/overview.png)
+## Proposal Cover
+![Proposal Cover](./images/Proposal%20Cover.png)
 
 ## Key Features
 
@@ -29,7 +30,8 @@ The modified 5-stage pipeline incorporates AI units in the Execute stage:
 - **Execute Stage**: Multiplexing logic routes operations to ALU or AI datapaths
 - **Hazard Detection**: Additional forwarding logic for AI unit results
 
-![Architecture Diagram](docs/images/microarch.png)
+## Architecture Diagram
+![Architecture Diagram](./images/Architecture%20Diagram.png)
 
 ### AI Datapath Units
 - **MAC Unit**: Pipelined multiply-accumulate with vector mode support
