@@ -9,7 +9,7 @@ This project integrates domain-specific AI acceleration units into a minimal RIS
 Our simulation-first methodology enables rapid prototyping and verification of hardware accelerators before physical implementation, significantly reducing development cycles and costs while ensuring correctness and performance guarantees.
 
 ## Proposal Cover
-![Proposal Cover](./images/Proposal%20Cover.png)
+![Proposal Cover](https://raw.githubusercontent.com/ArijitDutta96395/DESIGN-VERIFICATION-OF-AI-ENHANCED-RISC-V-SOFT-CORE-PROCESSOR/main/Proposal%20Cover.png)
 
 ## Key Features
 
@@ -31,7 +31,7 @@ The modified 5-stage pipeline incorporates AI units in the Execute stage:
 - **Hazard Detection**: Additional forwarding logic for AI unit results
 
 ## Architecture Diagram
-![Architecture Diagram](./images/Architecture%20Diagram.png)
+![Architecture Diagram](https://raw.githubusercontent.com/ArijitDutta96395/DESIGN-VERIFICATION-OF-AI-ENHANCED-RISC-V-SOFT-CORE-PROCESSOR/main/Architecture%20Diagram.png)
 
 ### AI Datapath Units
 - **MAC Unit**: Pipelined multiply-accumulate with vector mode support
