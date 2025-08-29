@@ -8,8 +8,12 @@ This project integrates domain-specific AI acceleration units into a minimal RIS
 
 Our simulation-first methodology enables rapid prototyping and verification of hardware accelerators before physical implementation, significantly reducing development cycles and costs while ensuring correctness and performance guarantees.
 
-## Proposal Cover
-![Proposal Cover](https://raw.githubusercontent.com/ArijitDutta96395/DESIGN-VERIFICATION-OF-AI-ENHANCED-RISC-V-SOFT-CORE-PROCESSOR/main/Proposal%20Cover.png)
+<h2 align="center">Project Proposal</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArijitDutta96395/DESIGN-VERIFICATION-OF-AI-ENHANCED-RISC-V-SOFT-CORE-PROCESSOR/main/Proposal%20Cover.png" alt="Proposal Cover" />
+</p>
+
 
 ## Key Features
 
