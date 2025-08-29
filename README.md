@@ -228,3 +228,28 @@ We welcome contributions in the following areas:
 - Comprehensive assertions for new modules 🛡️
 - Python golden models for verification 🐍
 - Documentation for all public interfaces 📝
+  
+## License 📜
+
+This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
+
+## Citation 📚
+
+If you use this work in your research, please cite:
+
+```bibtex
+@misc{riscv-ai-core-2025,
+  title={AI-Accelerated RISC-V Soft-Core: Simulation-First Design and Verification},
+  author={Research Team},
+  year={2025},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/your-org/riscv-ai-core}}
+}
+```
+
+## Acknowledgments 🙏
+
+- RISC-V International for the open ISA specification 🌐  
+- UC Berkeley for the original RISC-V implementation 🏫  
+- Open-source EDA tools community (Verilator, Yosys) 🛠️  
+- Indian Semiconductor Mission for project support 🇮🇳💡
